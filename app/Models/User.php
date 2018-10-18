@@ -29,11 +29,11 @@ class User extends Authenticatable
 
     public function comment()
     {
-        return $this->hasMany('App\Comment','user_id','id');
+        return $this->hasMany('App\Models\Comment','user_id','id');
     }
 
     public function role()
     {
-        return $this->belongsTo('App\Role','role_id','id');
+        return $this->belongsTo('App\Models\Role','role_id','id');
     }
 }

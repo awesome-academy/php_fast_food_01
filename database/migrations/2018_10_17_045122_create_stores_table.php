@@ -20,7 +20,6 @@ class CreateStoresTable extends Migration
             $table->string('address')->nullable();
             $table->string('phone')->nullable();
             $table->string('avatar')->nullable();
-            $table->integer('workspace_id')->unsigned();
             $table->timestamps();
         });
     }

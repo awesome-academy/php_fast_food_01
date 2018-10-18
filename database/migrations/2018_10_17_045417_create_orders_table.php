@@ -21,7 +21,7 @@ class CreateOrdersTable extends Migration
             $table->string('description')->nullable();
             $table->integer('status')->default(0);
             $table->dateTime('date');
-            $table->integer('restaurant_id')->unsigned();
+            $table->integer('store_id')->unsigned();
             $table->timestamps();
         });
     }
