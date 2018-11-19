@@ -16,12 +16,13 @@
         'avatar' => 'Ảnh Đại Diện',
         'avatar_detail' => 'Ảnh Chi Tiết',
         'action' => 'Hoạt Động',
+        'address' => 'Địa Chỉ',
         //b
         //c
         'cake' => 'Bánh Ngọt',
         'contact' => 'Liên Hệ',
         'cart' => 'Giỏ Hàng',
-        'category' => 'Thể Loại',
+        'category' => 'Danh Mục',
         'compare' => 'So Sánh',
         'comments' => 'Bình luận'
         'company' => 'Công Ty',
@@ -35,6 +36,9 @@
         'cart_total' => 'Tổng Đơn Hàng',
         'checkout' => 'Thanh Toán',
         'confirm_password' => 'Xác nhận lại mật khẩu',
+        'cancel' => 'Hủy',
+        'confirm' => 'Xác nhận',
+        'cancel_guest' => 'Khách hủy đơn',
         //d
         'discount_codes' => 'Mã Giảm Giá',
         'description' => 'Mô tả',
@@ -52,14 +56,18 @@
         'full_name' => 'Tên đầy đủ',
         'food_type' => 'Các loại món ăn',
         'food_name' => 'Têm món ăn',
+        'follow' => 'Liên Hệ',
         //g
         'grand_total' => 'Tổng Cộng',
+        'geometry' => 'Hình thức',
         //h
         'home' => 'Trang Chủ',
         'history_order' => 'Lịch sử mua hàng',
+        'hello' => 'Chào bạn',
         //i
         'information' => 'Thông Tin Tài Khoản',
         'informations' => 'Thông Tin',
+        'items' => 'Số lượng',
         //k
         //l
         'login' => 'Đăng Nhập',
@@ -72,8 +80,12 @@
         'number' => 'STT',
         'noti' => 'Chưa có món ăn nào để hiển thị.',
         'name' => 'Tên',
+        'names' => 'Họ và tên',
         //o
         'oder_History' => 'Lịch Sử Đặt Hàng',
+        'overview' => 'Tổng quan',
+        'oderDetail' => 'Chi Tiết Đơn Đặt Hàng',
+        'oder_date' => 'Ngày lập hóa đơn',
         //p
         'product' => 'Sản Phẩm',
         'pizza' => 'Pizza',
@@ -86,11 +98,14 @@
         'pd' => 'Thông Tin Sản Phẩm',
         'price' => 'Giá',
         'prices' => 'Giá',
+        'priceSale' => 'Giá Khuyến Mãi',
         'product_name' => 'Tên Sản Phẩm',
         'payment' => 'Thanh Toán',
         'password' => 'Mật Khẩu',
         'phone' => 'Số Điện Thoại',
         'password' => 'Mật khẩu',
+        'phone' => 'Số Điện Thoại',
+        'processed' => 'Đã xử lý',
         //q
         'quantity' => 'Số Lượng',
         //r
@@ -110,6 +125,12 @@
         'startDay' => "Ngày Bắt Đầu",
         'endDay' => 'Ngày Kết Thúc',
         'status_del' => 'Bạn có chắc muốn xóa không?',
+        'storeName' => 'Tên Cửa Hàng',
+        'status_order' => 'Chưa có hóa đơn nào để hiển thị.',
+        'status' => 'Tình trạng',
+        'status_product' => 'Không có sản phẩm nào',
+        'sign_up' => 'Đăng kí bằng email',
+        'store_setting' => 'Sửa thông tin của hàng',
         //t
         'telephone' => 'Số Điện Thoại',
         'total' => 'Tổng Tiền',
@@ -122,6 +143,7 @@
         //v
         'view_cart' => 'Giỏ Hàng',
         //w
+        'waiting' => 'Đang chờ',
         //x
         //y
         //z
