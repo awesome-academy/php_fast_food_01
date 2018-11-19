@@ -16,12 +16,13 @@
         'avatar' => 'Avatar',
         'avatar_detail' => 'Avatar Details',
         'action' => 'Action',
+        'address' => 'Address',
         //b
         //c
         'cake' => 'Cake',
         'contact' => 'CONTACT',
         'cart' => 'CART',
-        'category' => 'Categories',
+        'category' => 'Categorie',
         'compare' => 'Compare',
         'company' => 'Company',
         'comments' => 'Comments',
@@ -35,12 +36,16 @@
         'cart_total' => 'Cart Total',
         'confirm_password' => 'Confirm Password',
         'checkout' => 'Checkout',
+        'cancel' => 'Cancel',
+        'confirm' => 'Confirm',
+        'cancel_guest' => 'Cancel Guest',
         //d
         'discount_codes' => 'Discount Codes',
         'description' => 'Description',
         'discount' => 'Discount',
         'detail' => 'Detail',
         'delete' => 'Delete',
+        'oder_date' => 'Oder Date',
         //e
         'email' => 'Email Address',
         'editPromotion' => 'Edit Promotion',
@@ -52,14 +57,18 @@
         'full_name' => 'Full name',
         'food_type' => 'Food Type',
         'food_name' => "Food's Name",
+        'follow' => 'Follow Us',
         //g
         'grand_total' => 'Grand Total',
+        'geometry' => 'Geometry',
         //h
         'home' => 'HOME',
         'history_order' => 'History(order)',
+        'hello' => 'Hello',
         //i
         'information' => 'Information',
         'informations' => 'Information',
+        'items' => 'items',
         //k
         //l
         'login' => 'Login',
@@ -71,9 +80,12 @@
         'new' => 'New',
         'number' => 'Number',
         'noti' => 'There are no food items to display',
-        'name' => "Name",
+        'name' => 'Name',
+        'names' => 'Full Name',
         //o
         'oder_History' => 'Oder History',
+        'overview' => 'Overview',
+        'oderDetail' => 'Oder Detail',
         //p
         'product' => 'PRODUCT',
         'pizza' => 'Pizza',
@@ -85,11 +97,14 @@
         'pd' => 'Product Description',
         'price' => 'Unit Price',
         'prices' => 'Price',
+        'priceSale' => 'Promotin Price',
         'product_name' => 'Product Name',
         'promotional_pricing' => 'Promotional pricing',
         'payment' => 'Payment',
         'phone' => 'Phone',
         'password' => 'Password',
+        'phone' => 'Phone',
+        'processed' => 'Processed',
         //q
         'quantity' => 'Quantity',
         //r
@@ -109,6 +124,12 @@
         'startDay' => "Start Day",
         'endDay' => 'End Day',
         'status_del' => 'You want to delete?',
+        'storeName' => 'Name Store',
+        'status_order' => 'There are no invoices to display',
+        'status' => 'Status',
+        'status_product' => 'There are no product',
+        'sign_up' => 'Sign up for emails',
+        'store_setting' => 'Store settings',
         //t
         'telephone' => 'Telephone',
         'total' => 'Subtotal',
@@ -121,6 +142,7 @@
         //v
         'view_cart' => 'View Cart',
         //w
+        'waiting' => 'Waiting',
         //x
         //y
         //z  
